@@ -1,4 +1,3 @@
-```bash
 class Library:
     def __init__(self):
         self.books = ["Dune by Frank Herbert",
